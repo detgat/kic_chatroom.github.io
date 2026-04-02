@@ -31,6 +31,10 @@
 
 *Hinweis: Es kann ein paar Minuten dauern, bis deine Seite online ist.*
 
+##Liink zum Chatroom:
+https://detgat.github.io/kic_chatroom.github.io/
+
+
 
 
 
